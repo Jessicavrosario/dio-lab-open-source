@@ -1,5 +1,3 @@
-![Icone_Jessica](https://drive.google.com/file/d/1K316Rmtm8OtwPKf-a9R0YJQ1XO-g5z7t/view?usp=drive_link)
-
 # Jéssica Rosário
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jessicavrosariodasilva@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessica_vrosario/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-r-3398aa18b/)
